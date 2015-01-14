@@ -1,3 +1,9 @@
+# UnfoldingFX
+
+Fork of github.com/tillnagel/unfolding, to allow for integration with JavaFX
+
+====================================================================
+
 # Unfolding
 Create interactive thematic maps and geovisualizations.
 
